@@ -1,4 +1,4 @@
-sublime
-=======
+Sublime Text
+============
 
 Sublime Configuration Files
