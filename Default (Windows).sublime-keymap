@@ -1,3 +1,4 @@
 [
-    { "keys": ["ctrl+f5"], "command": "refresh_folder_list"}
+    { "keys": ["f1"],       "command": "toggle_minimap"     },
+    { "keys": ["ctrl+f5"],  "command": "refresh_folder_list"}
 ]
