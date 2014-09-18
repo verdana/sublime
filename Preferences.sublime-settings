@@ -2,7 +2,7 @@
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"caret_style": "solid",
-	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
 	"default_line_ending": "unix",
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -11,12 +11,15 @@
 		".DS_Store",
 		".git",
 		".hg",
+		".idea",
 		".svn",
 		"CVS"
 	],
-	"font_face": "Source Code Pro",
+	"font_face": "Envy Code R",
 	"font_options":
 	[
+		"subpixel_antialias",
+		"no_bold"
 	],
 	"font_size": 10,
 	"highlight_line": true,
@@ -35,7 +38,7 @@
 	"shift_tab_unindent": true,
 	"soda_classic_tabs": false,
 	"soda_folder_icons": false,
-	"theme": "Spacegray.sublime-theme",
+	"theme": "Spacegray Eighties.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,
