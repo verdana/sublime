@@ -1,0 +1,4 @@
+{
+    "shell_cmd": "D:\\Cygwin\\bin\\curl.exe -X POST --data \"name=Digger%20Document&issues=true&twitter=verdana&travis=false\" --data-urlencode content@${file} http://documentup.com/compiled > ${file_base_name}.html",
+    "selector": "text.html.markdown"
+}
