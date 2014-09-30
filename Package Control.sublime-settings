@@ -1,5 +1,6 @@
 {
 	"auto_upgrade_last_run": null,
+	"debug": true,
 	"git_binary": "D:\\Cygwin\\bin\\git.exe",
 	"installed_packages":
 	[
