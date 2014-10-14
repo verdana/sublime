@@ -6,8 +6,11 @@
 	[
 		"Alignment",
 		"Gist",
+		"IMESupport",
 		"INI",
 		"Package Control",
+		"PHP Completions Kit",
+		"PhpDoc",
 		"SSH Config",
 		"Theme - Soda",
 		"Theme - Spacegray"
