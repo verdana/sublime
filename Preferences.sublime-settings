@@ -21,11 +21,10 @@
 		".svn",
 		"CVS"
 	],
-	"font_face": "Envy Code R",
+	"font_face": "Source Code Pro",
 	"font_options":
 	[
-		"subpixel_antialias",
-		"no_bold"
+		"subpixel_antialias"
 	],
 	"font_size": 10,
 	"highlight_line": true,
