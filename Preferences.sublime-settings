@@ -2,7 +2,7 @@
 	"always_show_minimap_viewport": false,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+	"color_scheme": "Packages/User/Espresso Soda.tmTheme",
 	"default_line_ending": "unix",
 	"draw_minimap_border": false,
 	"enable_tab_scrolling": false,
@@ -24,9 +24,10 @@
 	"font_face": "Monaco",
 	"font_options":
 	[
-		"subpixel_antialias"
+		"subpixel_antialias",
+		"no_bold"
 	],
-	"font_size": 10,
+	"font_size": 9,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -45,7 +46,7 @@
 	"show_line_endings": true,
 	"soda_classic_tabs": false,
 	"soda_folder_icons": false,
-	"theme": "Spacegray Eighties.sublime-theme",
+	"theme": "Soda Light 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,
