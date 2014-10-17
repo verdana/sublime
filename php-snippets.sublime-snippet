@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+${1:public} static function ${2:functionName}(${3:\$param = ''})
+{
+    ${4:# code...}
+}
+]]></content>
+    <tabTrigger>sfun</tabTrigger>
+    <scope>source.php</scope>
+</sniccppet>
