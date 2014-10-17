@@ -27,7 +27,7 @@
 		"subpixel_antialias",
 		"no_bold"
 	],
-	"font_size": 9,
+	"font_size": 10,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -46,7 +46,7 @@
 	"show_line_endings": true,
 	"soda_classic_tabs": false,
 	"soda_folder_icons": false,
-	"theme": "Soda Light 3.sublime-theme",
+	"theme": "Spacegray Eighties.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,
