@@ -8,3 +8,15 @@ ${1:public} static function ${2:functionName}(${3:\$param = ''})
     <tabTrigger>sfun</tabTrigger>
     <scope>source.php</scope>
 </sniccppet>
+
+
+<snippet>
+    <content><![CDATA[
+public function __construct()
+{
+    ${1:# code...}
+}
+]]></content>
+    <tabTrigger>con</tabTrigger>
+    <scope>source.php</scope>
+</sniccppet>
