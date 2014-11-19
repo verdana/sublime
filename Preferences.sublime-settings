@@ -21,13 +21,13 @@
 		".svn",
 		"CVS"
 	],
-	"font_face": "Monaco",
+	"font_face": "XHei Intel Mono",
 	"font_options":
 	[
 		"subpixel_antialias",
 		"no_bold"
 	],
-	"font_size": 8,
+	"font_size": 10,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
